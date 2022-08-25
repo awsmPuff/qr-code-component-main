@@ -24,7 +24,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/profile/awsmPuff/solutions]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://awsmpuff.github.io/qr-code-component-main/]
 
 
 ### Built with
